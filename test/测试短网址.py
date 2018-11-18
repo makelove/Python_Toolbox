@@ -9,5 +9,6 @@
 """
 
 from toolsbox.web.short_link import t_cn
+
 if __name__ == '__main__':
-    t_cn.test('hello world')
+    t_cn.test('hello world !')
