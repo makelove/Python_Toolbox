@@ -16,6 +16,6 @@ setup(
     author='play4fun',
     author_email='play4fun@foxmail.com',
     packages=find_packages(),
-    install_requires=[],
+    install_requires=['requests', 'random_useragent'],
     license='GNU General Public License v3.0',
 )
