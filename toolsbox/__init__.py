@@ -8,5 +8,5 @@
 __init__.py:
 """
 
-__version__ = '1.18.11.19'
+__version__ = '1.18.11.19.2'
 __author__ = 'play4fun <play4fun@foxmail.com>'
