@@ -15,7 +15,10 @@ setup(
     version='1.18.11.18',  # 按日期
     author='play4fun',
     author_email='play4fun@foxmail.com',
-    packages=find_packages(),
+    # packages=find_packages(),
+    packages=['toolsbox'],
     install_requires=['requests', 'random_useragent'],
     license='GNU General Public License v3.0',
+    long_description_content_type="text/markdown",
+    long_description='python工具箱，常用代码'
 )
