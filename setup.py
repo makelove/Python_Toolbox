@@ -12,7 +12,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='toolsbox',
-    version='1.18.11.18',  # 按日期
+    version='1.18.11.19',  # 按日期
     author='play4fun',
     author_email='play4fun@foxmail.com',
     # packages=find_packages(),
